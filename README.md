@@ -31,4 +31,4 @@ Web-Server](1409/task2/part1)
 ### TERM-001
 #### ИТОГОВОЕ задание 
 
-- [ИТОГОВОЕ задание ]()
+- [ИТОГОВОЕ задание ](https://github.com/PetrovaEkaterina/sem3_todo_list)
